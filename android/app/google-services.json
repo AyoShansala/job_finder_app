@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209396827975",
+    "project_id": "app-linkedin-fiverr-clone",
+    "storage_bucket": "app-linkedin-fiverr-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209396827975:android:8e730691411ab5a5896e62",
+        "android_client_info": {
+          "package_name": "com.example.linkedin_fiverr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209396827975-1v82441d211mmspv90mr5fs1jg5oqaam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Rb6P5FGDH93N0b2lAxc_hTq0FKJM9hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209396827975-1v82441d211mmspv90mr5fs1jg5oqaam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
